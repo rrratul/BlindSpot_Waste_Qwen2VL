@@ -1,4 +1,4 @@
-```markdown
+
 # Blind Spot: Bangladeshi Water-Body Waste Recognition
 
 An empirical probe of a small open-weight vision-language model (`Qwen/Qwen2-VL-2B-Instruct`)
